@@ -1,3 +1,4 @@
+// Refactor: se añade comentario para documentación interna.
 package org.example;
 
 import java.util.ArrayList;
